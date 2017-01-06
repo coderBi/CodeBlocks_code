@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415558246 source:d:\codeblocks\fivebitsnumfanxuprint\main.c
+	<stdio.h>
+	<stdlib.h>
+

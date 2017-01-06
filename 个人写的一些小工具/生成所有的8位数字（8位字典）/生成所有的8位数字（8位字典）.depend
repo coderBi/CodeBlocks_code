@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476723556 source:c:\users\administrator\desktop\生成所有的8位数字（8位字典）\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

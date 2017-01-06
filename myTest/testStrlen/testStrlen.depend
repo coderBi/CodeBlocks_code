@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1402248610 source:d:\codeblocks\teststrlen\main.cpp
+	<iostream>
+	<string.h>
+

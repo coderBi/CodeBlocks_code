@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1416466947 source:d:\codeblocks\exchangesort\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1416466947 source:d:\codeblocks\datastructure\exchangesort\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+

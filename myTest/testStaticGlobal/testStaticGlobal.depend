@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1402917541 source:d:\codeblocks\teststaticglobal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test.h"
+
+1402929971 d:\codeblocks\teststaticglobal\test.h
+
+1402917513 source:d:\codeblocks\teststaticglobal\test.c
+	<stdio.h>
+	"test.h"
+

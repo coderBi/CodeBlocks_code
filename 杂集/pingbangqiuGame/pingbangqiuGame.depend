@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415469447 source:d:\codeblocks\pingbangqiugame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

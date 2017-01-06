@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1476814422 source:c:\users\administrator\desktop\批量去掉下载文件前面的网址信息\main.cpp
+	<iostream>
+	<windows.h>
+	<io.h>
+	<vector>
+	<algorithm>
+
+1476814953 source:d:\资料与记录（新装硬盘）\code\codeblocks\个人写的一些小工具\批量去掉下载文件前面的网址信息\main.cpp
+	<iostream>
+	<windows.h>
+	<io.h>
+	<vector>
+	<algorithm>
+

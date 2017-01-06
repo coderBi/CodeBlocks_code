@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479183732 source:c:\users\administrator\desktop\测试c++中vector不断插入起始位的情况\main.cpp
+	<iostream>
+	<vector>
+

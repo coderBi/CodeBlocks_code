@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1481920644 source:c:\users\administrator\desktop\cppmysql\main.cpp
+	<iostream>
+	"MySQL_Dao.h"
+
+1481920155 c:\users\administrator\desktop\cppmysql\mysql_dao.h
+	<winsock2.h>
+	<mysql.h>
+	"Po_Message.h"
+	<vector>
+	<exception>
+
+1481920620 source:c:\users\administrator\desktop\cppmysql\mysql_dao.cpp
+	"MySQL_Dao.h"
+	<iostream>
+	<stdlib.h>
+
+1427276092 c:\program files\mysql\mysql server 5.6\include\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1427278042 c:\program files\mysql\mysql server 5.6\include\mysql_version.h
+	<custom_conf.h>
+
+1427276092 c:\program files\mysql\mysql server 5.6\include\mysql_com.h
+
+1427276092 c:\program files\mysql\mysql server 5.6\include\mysql_time.h
+
+1427276092 c:\program files\mysql\mysql server 5.6\include\my_list.h
+
+1427276092 c:\program files\mysql\mysql server 5.6\include\typelib.h
+	"my_alloc.h"
+
+1427276092 c:\program files\mysql\mysql server 5.6\include\my_alloc.h
+
+1481650790 c:\users\administrator\desktop\cppmysql\po_message.h
+	<string>
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1100537879 source:d:\codeblocks\cgi项目\calc\cgic.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<io.h>
+	<fcntl.h>
+	<unistd.h>
+	"cgic.h"
+
+1082666987 d:\codeblocks\cgi项目\calc\cgic.h
+	<stdio.h>
+
+1430128669 source:d:\codeblocks\cgi项目\calc\ctemplate.c
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	<sys/stat.h>
+	<stdarg.h>
+	<io.h>
+	"ctemplate.h"
+
+1259608959 d:\codeblocks\cgi项目\calc\ctemplate.h
+

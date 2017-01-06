@@ -1,0 +1,2 @@
+id   name      address             Chinese   math      English   
+0    fujj      guangzhou           264       46        26 

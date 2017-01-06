@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1401980415 source:d:\codeblocks\testintandcharp\main.c
+	<stdio.h>
+	<stdlib.h>
+

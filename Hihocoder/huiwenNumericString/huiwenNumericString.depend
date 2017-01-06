@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415593837 source:d:\codeblocks\huiwennumericstring\main.c
+	<stdio.h>
+	<stdlib.h>
+

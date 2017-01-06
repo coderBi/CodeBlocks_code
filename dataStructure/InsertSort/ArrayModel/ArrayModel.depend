@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416229639 source:d:\codeblocks\insertsort\arraymodel\main.c
+	<stdio.h>
+	<stdlib.h>
+

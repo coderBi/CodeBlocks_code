@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444918144 source:d:\codeblocks\mytest\definefunction\main.c
+	<stdio.h>
+	<stdlib.h>
+

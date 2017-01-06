@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448983637 source:d:\资料与记录（新装硬盘）\codeblocks\mytest\testmap\main.cpp
+	<iostream>
+	<map>
+

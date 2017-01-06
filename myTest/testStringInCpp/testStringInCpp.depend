@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1401652744 source:d:\codeblocks\teststringincpp\main.cpp
+	<iostream>
+	<string>
+

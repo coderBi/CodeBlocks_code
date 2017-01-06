@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1439449009 source:d:\codeblocks\cgi项目\excuteselect\excute.c
+	<stdio.h>
+	<stdlib.h>
+	"excute.h"
+	<winsock.h>
+	<mysql.h>
+	<string.h>
+
+1439449397 d:\codeblocks\cgi项目\excuteselect\excute.h
+	<winsock.h>
+	<mysql.h>
+
+1427276092 c:\program files\mysql\mysql server 5.6\include\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1427278042 c:\program files\mysql\mysql server 5.6\include\mysql_version.h
+	<custom_conf.h>
+
+1427276092 c:\program files\mysql\mysql server 5.6\include\mysql_com.h
+
+1427276092 c:\program files\mysql\mysql server 5.6\include\mysql_time.h
+
+1427276092 c:\program files\mysql\mysql server 5.6\include\my_list.h
+
+1427276092 c:\program files\mysql\mysql server 5.6\include\typelib.h
+	"my_alloc.h"
+
+1427276092 c:\program files\mysql\mysql server 5.6\include\my_alloc.h
+
+1439448505 source:d:\codeblocks\cgi项目\excuteselect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock.h>
+	<mysql.h>
+	<string.h>
+

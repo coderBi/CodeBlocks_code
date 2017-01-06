@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1402484412 source:d:\codeblocks\testextern\main.cpp
+	<iostream>
+
+1402332453 source:d:\codeblocks\testextern\addfile.c
+	"addFile.h"
+
+1402332453 d:\codeblocks\testextern\addfile.h
+

@@ -1,0 +1,62 @@
+ajflajl   aj
+i, j: 0   0
+a  a
+i, j: 1   1
+j  j
+found
+ajflajl   jl
+i, j: 0   0
+a  j
+i, j: -1   0
+a  ÿ
+i, j: 0   1
+j  j
+i, j: 1   2
+f  l
+i, j: 0   2
+f  j
+i, j: -1   2
+f  ÿ
+i, j: 0   3
+l  j
+i, j: -1   3
+l  ÿ
+i, j: 0   4
+a  j
+i, j: -1   4
+a  ÿ
+i, j: 0   5
+j  j
+i, j: 1   6
+l  l
+found
+ajflajl   jjl
+i, j: 0   0
+a  j
+i, j: -1   0
+a  ÿ
+i, j: 0   1
+j  j
+i, j: 1   2
+f  j
+i, j: 0   2
+f  j
+i, j: -1   2
+f  ÿ
+i, j: 0   3
+l  j
+i, j: -1   3
+l  ÿ
+i, j: 0   4
+a  j
+i, j: -1   4
+a  ÿ
+i, j: 0   5
+j  j
+i, j: 1   6
+l  j
+i, j: 0   6
+l  j
+i, j: -1   6
+l  ÿ
+not found

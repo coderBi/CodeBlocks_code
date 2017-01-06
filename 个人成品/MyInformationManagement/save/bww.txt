@@ -1,0 +1,5 @@
+id   name      address             Chinese   math      English   
+0    bww       zhengzhou           100       100       100       
+1    kky       shandong            24        54        26        
+2    fujj      guangzhou           264       46        26        
+3    hhh       jinan               25        26        15        

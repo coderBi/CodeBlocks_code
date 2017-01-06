@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416913671 source:d:\codeblocks\selectsort\directselect\main.c
+	<stdio.h>
+	<stdlib.h>
+

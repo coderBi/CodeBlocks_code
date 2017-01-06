@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415419137 source:d:\codeblocks\luodifantan\main.c
+	<stdio.h>
+	<stdlib.h>
+

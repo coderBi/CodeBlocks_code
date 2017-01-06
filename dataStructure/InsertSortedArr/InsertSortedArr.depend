@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415811753 source:d:\codeblocks\insertsortedarr\main.c
+	<stdio.h>
+	<stdlib.h>
+

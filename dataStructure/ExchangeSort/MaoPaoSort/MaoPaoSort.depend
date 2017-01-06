@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416404428 source:d:\codeblocks\exchangesort\maopaosort\main.c
+	<stdio.h>
+	<stdlib.h>
+

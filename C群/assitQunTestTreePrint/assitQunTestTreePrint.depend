@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1403015973 source:d:\codeblocks\assitquntesttreeprint\main.cpp
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+

@@ -1,0 +1,6 @@
+#ifndef ADDFILE_H_INCLUDED
+#define ADDFILE_H_INCLUDED
+
+//int Numb1=1;
+
+#endif // ADDFILE_H_INCLUDED

@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1420938276 source:d:\codeblocks\myinformationmanagement\main.cpp
+	<iostream>
+	<string>
+	"DataModel.h"
+
+1420939092 d:\codeblocks\myinformationmanagement\datamodel.h
+	<string>
+
+1421236418 source:f:\推广包_bww_temp\personaldata\myinformationmanagement\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<stdexcept>
+	"DataModel.h"
+
+1421071776 f:\推广包_bww_temp\personaldata\myinformationmanagement\datamodel.h
+	<string>
+
+1425894962 source:d:\codeblocks\个人成品\myinformationmanagement\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<stdexcept>
+	"DataModel.h"
+
+1425894962 d:\codeblocks\个人成品\myinformationmanagement\datamodel.h
+	<string>
+
+1450926313 source:d:\资料与记录（新装硬盘）\code\codeblocks\个人成品\myinformationmanagement\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<stdexcept>
+	"DataModel.h"
+
+1448719093 d:\资料与记录（新装硬盘）\code\codeblocks\个人成品\myinformationmanagement\datamodel.h
+	<string>
+

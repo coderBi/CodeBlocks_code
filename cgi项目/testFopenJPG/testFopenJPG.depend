@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1440091802 source:d:\codeblocks\cgiÏîÄ¿\testfopenjpg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

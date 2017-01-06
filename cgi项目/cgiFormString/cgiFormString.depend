@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1439270568 source:d:\codeblocks\cgi项目\cgiformstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cgic.h"
+
+1082666987 d:\codeblocks\cgi项目\cgiformstring\cgic.h
+	<stdio.h>
+
+1100537879 source:d:\codeblocks\cgi项目\cgiformstring\cgic.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<io.h>
+	<fcntl.h>
+	<unistd.h>
+	"cgic.h"
+

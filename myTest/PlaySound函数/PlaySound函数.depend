@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1445601002 source:d:\codeblocks\mytest\playsound函数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1448719562 source:d:\资料与记录（新装硬盘）\code\codeblocks\mytest\playsound函数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

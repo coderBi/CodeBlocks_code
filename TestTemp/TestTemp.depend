@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430663169 source:d:\codeblocks\testtemp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415335999 source:d:\codeblocks\findmostinthree\main.c
+	<stdio.h>
+	<stdlib.h>
+

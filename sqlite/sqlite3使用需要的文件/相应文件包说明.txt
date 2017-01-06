@@ -1,0 +1,8 @@
+①：sqlite-amalgamation里面放着四个文件 sqlite.c sqlite.h sqliteex.h shell.c。 shell.c一般不用，
+所以项目中只需要引入前三个文件就可以使用sqlite了。
+②：dll文件包里面放着 dll 跟def文件，通过vs可以生成lib文件。如果不想通过 ①这样引入源文件也可以引入
+lib 跟dll
+③：doc 包里面放的是一系列html页面，看了一下，好像查看不是很方便
+④：snapshot包，很全面，里面包括了①中提到的4个文件，而且还提供说明了一系列各种系统下的编译使用
+⑤：tools-win32包，里面放的是三个exe，基本只用到了 sqlite.exe， 这个是运行命令行版本的sqlite的，
+可以进行建库跟文件操作。

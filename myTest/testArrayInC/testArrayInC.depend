@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1401980484 source:d:\codeblocks\testarrayinc\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1415684535 source:d:\codeblocks\gethuiwenlength\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

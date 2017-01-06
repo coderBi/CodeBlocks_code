@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1419173135 source:d:\codeblocks\gluttonoussnake\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1448718602 source:d:\资料与记录（新装硬盘）\code\codeblocks\gluttonoussnake\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+

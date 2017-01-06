@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1446005782 source:d:\codeblocks\mytest\globalvar\anothersource.c
+	<stdio.h>
+	"HeadFile.h"
+
+1446005218 d:\codeblocks\mytest\globalvar\headfile.h
+
+1446010545 source:d:\codeblocks\mytest\globalvar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	<windows.h>
+	"HeadFile.h"
+
+1446006447 source:d:\codeblocks\mytest\globalvar\source1.c
+	<stdio.h>
+	"HeadFile.h"
+
