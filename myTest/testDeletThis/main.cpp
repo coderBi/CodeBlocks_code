@@ -20,6 +20,6 @@ int main()
 {
     testDeleteThis* myTest=new testDeleteThis();
     myTest->testMethod();
-    cout<<myTest->num<<endl;   //结果应该会出错  这时myTest指针悬垂
+    cout<<myTest->num<<endl;   //本来以为结果应该会出错  这时myTest指针悬垂。但是实际测试发现运行正常，也就是说操作系统并不能保证回收了的还没被重新分配的堆不能被读取。
     return 0;
 }
